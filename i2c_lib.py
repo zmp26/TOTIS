@@ -1,3 +1,7 @@
+"""
+CREDIT FOR THIS FILE GOES TO PAUL BARBER
+THIS CAN BE FOUND AT https://github.com/paulbarber/raspi-gpio/blob/master/i2c_lib.py
+"""
 import smbus
 from time import *
 
