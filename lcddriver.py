@@ -1,3 +1,7 @@
+"""
+CREDIT FOR THIS FILE GOES TO PAUL BARBER
+ORIGINAL FILE CAN BE FOUND AT https://github.com/paulbarber/raspi-gpio/blob/master/lcd_display.py
+"""
 import i2c_lib
 from time import *
 
